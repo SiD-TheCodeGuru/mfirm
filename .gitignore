@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# NiceGUI / Local storage
+.nicegui/
+
+# IDE files
+.vscode/
+.idea/
+
+# Database dumps / backups
+*.dump
+*.gz
+dump/
